@@ -1,0 +1,18 @@
+body {
+	background-image: url('background.jpg');
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+}
+.box {
+	position: relative;
+	width: 850px;
+	height: 450px;
+	background-color:#5964f16e;
+	border:3px solid #FFF;
+	margin-top: 80px;
+	margin-left: -425px;
+	left:50%;
+}
+.box a {
+	color:#07d1ff;
+}
